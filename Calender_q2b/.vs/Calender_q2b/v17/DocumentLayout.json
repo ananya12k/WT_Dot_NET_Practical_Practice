@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\Calender_q2b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808B34C8-418A-4577-A005-8BAA9E9097F5}|Calender_q2b\\Calender_q2b.csproj|d:\\documents\\ddu\\ddu sem 7\\wt\\practicals_and_practice\\calender_q2b\\calender_q2b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808B34C8-418A-4577-A005-8BAA9E9097F5}|Calender_q2b\\Calender_q2b.csproj|solutionrelative:calender_q2b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808B34C8-418A-4577-A005-8BAA9E9097F5}|Calender_q2b\\Calender_q2b.csproj|D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\Calender_q2b\\calender_q2b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{808B34C8-418A-4577-A005-8BAA9E9097F5}|Calender_q2b\\Calender_q2b.csproj|solutionrelative:calender_q2b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\Calender_q2b\\Calender_q2b\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Calender_q2b\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\Calender_q2b\\Calender_q2b\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Calender_q2b\\WebForm1.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:37:36.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\Calender_q2b\\Calender_q2b\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Calender_q2b\\WebForm1.aspx",
+              "ToolTip": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\Calender_q2b\\Calender_q2b\\WebForm1.aspx",
+              "RelativeToolTip": "Calender_q2b\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-05T08:36:31.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

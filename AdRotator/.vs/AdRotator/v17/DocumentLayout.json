@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2145DB-A9D6-4D96-B854-FF7C01ABB860}|AdRotator\\AdRotator.csproj|D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\adrotator\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB2145DB-A9D6-4D96-B854-FF7C01ABB860}|AdRotator\\AdRotator.csproj|solutionrelative:adrotator\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2145DB-A9D6-4D96-B854-FF7C01ABB860}|AdRotator\\AdRotator.csproj|D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\adrotator\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2145DB-A9D6-4D96-B854-FF7C01ABB860}|AdRotator\\AdRotator.csproj|solutionrelative:adrotator\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2145DB-A9D6-4D96-B854-FF7C01ABB860}|AdRotator\\AdRotator.csproj|d:\\documents\\ddu\\ddu sem 7\\wt\\practicals_and_practice\\adrotator\\adrotator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB2145DB-A9D6-4D96-B854-FF7C01ABB860}|AdRotator\\AdRotator.csproj|solutionrelative:adrotator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\AdRotator\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "AdRotator\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\AdRotator\\WebForm1.aspx.cs",
+              "RelativeToolTip": "AdRotator\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:58:45.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\AdRotator\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "AdRotator\\XMLFile1.xml",
+              "ToolTip": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\AdRotator\\XMLFile1.xml",
+              "RelativeToolTip": "AdRotator\\XMLFile1.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-30T18:51:22.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\AdRotator\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "AdRotator\\WebForm1.aspx",
+              "ToolTip": "D:\\Documents\\DDU\\DDU Sem 7\\WT\\Practicals_and_Practice\\AdRotator\\AdRotator\\WebForm1.aspx",
+              "RelativeToolTip": "AdRotator\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T18:49:58.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

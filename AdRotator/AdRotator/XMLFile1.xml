@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Lake1.jpg</ImageUrl>
+		<NavigateUrl>www.Lake.aspx</NavigateUrl>
+		<AlternateText> lake......</AlternateText>
+		<Impressions>10      </Impressions>
+		<Height>400      </Height>
+		<Width>400      </Width>
+		<Keyword> Lake    </Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>Lake2.jpg</ImageUrl>
+		<NavigateUrl>www.frozenlake.aspx</NavigateUrl>
+		<AlternateText> frozen lakes......</AlternateText>
+		<Impressions>5      </Impressions>
+		<Height>     400    </Height>
+		<Width>      400    </Width>
+		<Keyword> Lake     </Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>Bike1.jpg</ImageUrl>
+		<NavigateUrl>www.Bike.aspx</NavigateUrl>
+		<AlternateText> Bike 1......</AlternateText>
+		<Impressions>10      </Impressions>
+		<Height>400      </Height>
+		<Width>400      </Width>
+		<Keyword> Bike   </Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>Bike2.jpg</ImageUrl>
+		<NavigateUrl>www.Bike.aspx</NavigateUrl>
+		<AlternateText> Bikes......</AlternateText>
+		<Impressions>5      </Impressions>
+		<Height>     400    </Height>
+		<Width>      400    </Width>
+		<Keyword> Bike</Keyword>
+	</Ad>
+</Advertisements>
